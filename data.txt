@@ -1,0 +1,5 @@
+Sonar1_ type= sensor work= true
+Sonar1_ type= sensor work= true
+Sonar1_ type= sensor work= true
+Sonar1_ type= sensor work= false Sensor work stoped from dev/sda1/..
+Sonar2_ type= sensor work= true text= "will be exit...'
